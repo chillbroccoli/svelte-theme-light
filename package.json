@@ -15,8 +15,7 @@
         "url": "https://github.com/webmaek/svelte-theme-light"
     },
     "logo": {
-        "file": "./assets/logo.png",
-    },
+        "file": "./assets/logo.png"
     },
     "keywords": [
         "svelte",
