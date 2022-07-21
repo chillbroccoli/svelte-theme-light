@@ -21,7 +21,8 @@
     "tab.activeBackground": "#eed0c2",
     "tab.inactiveBackground": "#f7e7e0",
     "editorCursor.foreground": "#d89070",
-    "terminalCursor.foreground": "#d89070"
+    "terminalCursor.foreground": "#d89070",
+    "editorLink.activeForeground": "#9d4e2b"
   },
   "tokenColors": [
     {
