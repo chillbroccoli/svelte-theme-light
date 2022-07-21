@@ -1,0 +1,30 @@
+{
+    "name": "svelte-theme-light",
+    "displayName": "Svelte Theme Light",
+    "description": "Svelte Theme Light",
+    "publisher": "webmaek",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "svelte",
+        "svelte theme",
+        "theme",
+        "light",
+        "theme light",
+        "svelte theme light"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Svelte Theme Light",
+                "uiTheme": "vs",
+                "path": "./themes/Svelte Theme Light-color-theme.json"
+            }
+        ]
+    }
+}
