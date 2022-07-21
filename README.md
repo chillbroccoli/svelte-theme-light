@@ -9,6 +9,8 @@ This is my take on making theme that is based on Svelte Repl
 ![Svelte Code](/assets/svelte3.png)
 ![Svelte Code](/assets/svelte4.png)
 
+In image examples, Bracket Pair colorizing was turned off
+
 Tested mostly with Svelte and React
 
 Font: Fira Mono
