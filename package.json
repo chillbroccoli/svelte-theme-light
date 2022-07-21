@@ -3,7 +3,7 @@
   "displayName": "Svelte Theme Light",
   "description": "Svelte Theme Light",
   "publisher": "webmaek",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "engines": {
     "vscode": "^1.69.0"
   },
