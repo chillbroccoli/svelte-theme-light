@@ -11,12 +11,15 @@
 		"activityBar.foreground": "#d89070",
 		"activityBarBadge.background": "#c46236",
 		"list.focusOutline": "#c46236",
-		"list.activeSelectionBackground": "#d89070",
+		"list.activeSelectionBackground": "#e3b099",
 		"sideBarSectionHeader.foreground": "#c46236",
 		"button.background": "#c46236",
 		"textLink.foreground": "#c46236",
 		"textLink.activeForeground": "#d89070",
-		"focusBorder": "#d89070"
+		"focusBorder": "#d89070",
+		"list.highlightForeground": "#c46236",
+		"tab.activeBackground": "#eed0c2",
+		"tab.inactiveBackground": "#f7e7e0"
 	},
 	"tokenColors": [
 		{
